@@ -31,7 +31,7 @@ To run this project locally, you need to have Python and Django installed. Ensur
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourUsername/AuctionsApp.git
+    git clone https://github.com/SokratisChaimanas/AuctionsApp
     cd AuctionsApp
     ```
 
